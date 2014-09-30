@@ -1,3 +1,9 @@
+Presentation
+
+[CC-by-SA](https://creativecommons.org/licenses/by-sa/3.0/)
+
+Shower presentation engine
+
 # The MIT License
 
 Copyright © 2010–2014 Vadim Makeev, http://pepelsbey.net/
